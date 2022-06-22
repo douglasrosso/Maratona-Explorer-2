@@ -21,5 +21,5 @@ setTimeout(function() {
   }, 3000)
 }
 function linkCriador() {
-  window.location.href = "https://github.com/PsychoJantis";
+  window.location.href = "https://github.com/douglasrosso";
 }
